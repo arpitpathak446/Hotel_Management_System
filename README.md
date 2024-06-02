@@ -1,2 +1,28 @@
-# Hotel_Management_System
- My Project is Hotel Management System, the purpose of my project is to provide a solution for hotel administration using a user-friendly interface and a database. The project allows the hotel staff to manage the rooms, customers, bookings, services, and payments. Technical Skills used in the project are : JDK 11, MySQL., Java Swing.
+# Hotel-management-system-in-java-swing-netbeans-
+Minor project: Hotel management system using java swing netbeans 
+
+JDK 11
+
+Netbeans 12.2
+
+MySQL connector 8.0.17
+
+
+## Step 1 -
+
+Please create database then run the project
+
+Database name = hotel_management_room
+
+user = root
+
+password = Champ123@
+
+Dump database.sql into MySQL
+
+## Step 2 -
+
+Open NetBeans project and import the Hotel Management System Final.zip file
+
+
+#### thanks for using my project
